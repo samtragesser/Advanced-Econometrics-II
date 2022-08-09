@@ -2,4 +2,4 @@
 
 The purpose of these assignments were to implement econometric analysis from start to finish.
 
-Data and functions can be found in the data folder (https://github.com/samtragesser/Advanced-Econometrics-II/tree/main/data).
+Data and functions can be found [here](https://github.com/samtragesser/Advanced-Econometrics-II/tree/main/data).

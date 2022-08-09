@@ -1,6 +1,6 @@
 # Advanced-Econometrics-II
 
-Part of the curriculum of Cal Poly's Master's of Science In Quantitative Economics. Completed Winter 2022.
+Part of the curriculum of Cal Poly's Master's of Science in Quantitative Economics. Completed Winter 2022.
 
 ## Course Description
 Economic models offer deep insight into economic behavior and outcomes. If we approach observed

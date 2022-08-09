@@ -1,6 +1,6 @@
 # Advanced-Econometrics-II
 
-This repository includes projects and assignments completed in part of the curriculum of Cal Poly's Master's of Science in Quantitative Economics. Completed Winter 2022.
+This repository includes projects and assignments completed in part of the curriculum of Cal Poly's Master's of Science in Quantitative Economics. All projects and code replications were completed using MATLAB and .mlx files. Course completed Winter 2022.
 
 ## Course Description
 Economic models offer deep insight into economic behavior and outcomes. If we approach observed

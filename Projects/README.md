@@ -43,19 +43,12 @@ Using the multinomial outcome you created in Project #1, estimate a mulitnomial 
 6) Calculate the average marginal effect for all of the variables on all of the outcomes.  Comment on which variables have the largest effect.
 
 ### Project 3: Random Utility Model
-You should approach this project as if someone gave you some data and you are writing a report.  The purpose of the report is to explain how you analyzed the data and what your findings are.  Below I give you a list of things that you include in your analysis.
-
- 
 
 For this project, you should consult the paper: Michael P. Keane and Nada Wasi, "Comparing Alternative Models of Heterogeneity in Consumer Choice Behavior," Journal of Applied Econometrics, Vol. 28, No. 6, 2013, pp. 1018-1045.
 
-The data for this paper can be found at http://qed.econ.queensu.ca/jae/datasets/keane001/ (Links to an external site.)
+The data for this paper can be found at http://qed.econ.queensu.ca/jae/datasets/keane001/.
 
-For this project each student will analyze a different choice dataset.  You can find the data at the link above.  The data that you are assigned will be based on the last digit of your emplid.  There are 10 datasets.  If your emplid ends with '1' then you must analyze 'kw_dataset01', if it ends with '2' you are assigned 'kw_dataset02', if your emplid ends with '0', use the data set kw_dataset10.  
-
-You can read in the data with the command: X = dlmread('kw_dataset01.txt');
-
-The dataset just contains mostly 0 and 1's.  You will need to consult the readme file at the link about to figure out how to interpret the data.
+For this project you will analyze dataset 3.   
 
 Table 4 in the paper Fiebig, Denzil G., et al. "The generalized multinomial logit model: accounting for scale and coefficient heterogeneity." Marketing Science 29.3 (2010): 393-421. gives a useful summary of each of the data sets.  You will have to consult these two papers to figure out exactly which consumer choice data set you are working with.
 

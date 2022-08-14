@@ -11,3 +11,11 @@ implementation and applications. This class will heavily emphasize the computati
 involved, with little attention paid to off-the-shelf implementations. Students will develop a broad
 understanding of this very important estimation method and most importantly how to implement
 this estimator to solve complex real-world problems and gain deeper insight into economic data.
+
+## Code Replications
+
+The purpose of these assignments were to demonstrate my ability to write computer code to perform
+econometric analysis. Questions and answers were given and the task
+was to create code that generates the correct answer.
+
+Data and functions can be found [here](https://github.com/samtragesser/Advanced-Econometrics-II/tree/main/data).

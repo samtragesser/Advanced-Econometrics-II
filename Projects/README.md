@@ -7,40 +7,12 @@ Data and functions can be found [here](https://github.com/samtragesser/Advanced-
 ## Project Descriptions
 
 ### Project 1: Downloading and Working with NLS Data
-For this project you need to download data from the National Longitudinal Survey. 
+This project incorporates data from the National Longitudinal Survey with the primary goal to find a variable that will be explained using a multinomial logistic regression. The code script includes data import, cleaning, visualizations, summary statistics, and initial analysis.
 
-Your primary goal is to find a variable that you would like to explain using a multinomial logistic regression.  Some examples occupation, industry, degree completion, college major, 2year/4year college enrollment. 
-
-For some of the variables you might consider aggregating the outcomes to some extent. For example, rather than having 300 occupations, aggregate them to 3 or 4 broad categories.
-
-Once you decide on the variable you will study, pick 3 or 4 variables you think could be used to explain the variables.
-
-Import the data into matlab and perform any necessary data cleaning and summarize the data.
-
-You need to produce a coherent write-up that includes:
-
-1) A description of the outcome variables you are studying and anything you had to do to construct the outcome variable
-
-2) A description of the explanatory variables
-
-3) A discussion of the prominence of missing values for each of the variables and how you handled the missing values
-
-4) Produce and discuss summary measures of the variables, tabulations, means, etc.
 
 ### Project 2: Use Your NLSY Data to Estimate a Multinomial Logit Model
-Using the multinomial outcome you created in Project #1, estimate a mulitnomial logit model that uses the explanatory variables you chose.
+Using the multinomial outcome created in Project #1, estimation of a mulitnomial logit model. Code includes regression results, average marginal effects, and analysis.
 
-1) Briefly describe the nature of the outcome variables and the control variables
-
-2) State the number of observations you will use
-
-3) Define your baseline category
-
-4) Estimate the multinomial logit model.  Put the parameters and standard errors in a nice table
-
-5) Comment on the sign and statistical significance of the variables, is there anything unusual, or do all of the variables have the expected sign
-
-6) Calculate the average marginal effect for all of the variables on all of the outcomes.  Comment on which variables have the largest effect.
 
 ### Project 3: Random Utility Model
 

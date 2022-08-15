@@ -11,10 +11,11 @@ This project incorporates data from the National Longitudinal Survey with the pr
 
 
 ### Project 2: Use Your NLSY Data to Estimate a Multinomial Logit Model
-Using the multinomial outcome created in Project #1, estimation of a mulitnomial logit model. Code includes regression results, average marginal effects, and analysis.
+Using the same data as Project #1, estimation of a mulitnomial logit model. Code includes regression results, average marginal effects, and analysis.
 
 
 ### Project 3: Random Utility Model
+
 
 For this project, you should consult the paper: Michael P. Keane and Nada Wasi, "Comparing Alternative Models of Heterogeneity in Consumer Choice Behavior," Journal of Applied Econometrics, Vol. 28, No. 6, 2013, pp. 1018-1045.
 
